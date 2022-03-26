@@ -4,5 +4,3 @@ siddhu
 madhavan
 shiva
 sunny
-win
-i
